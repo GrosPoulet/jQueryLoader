@@ -10,5 +10,5 @@ Chrome extension to load jQuery in any website, even unwilling ones!
 
 # Check install
 To check that jQuery is now loaded in every website, go for instance to Instagram, open console (F12), 
-<br>typeof jQuery == 'function'<br>
-should return true.
+<br><i>typeof jQuery == 'function'</i><br>
+should return <b>true</b>.
